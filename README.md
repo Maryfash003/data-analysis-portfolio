@@ -44,4 +44,4 @@ View the interactive dashboard here: [Insert Tableau Public Link]
 ## Contact
 Created by **Mary Omowunmi Fashola**  
 - LinkedIn: linkedin.com/in/mary-fashola-023ab6101/
-- Portfolio: [Insert GitHub portfolio link]  
+- Portfolio:github.com/Maryfash003
